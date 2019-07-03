@@ -1,5 +1,8 @@
 # functionanalyser
 
+[![Latest Version](https://img.shields.io/github/release/plagiatus/functionanalyser.svg)](https://github.com/Plagiatus/functionanalyser/releases/latest)
+![MIT License](https://img.shields.io/github/license/Plagiatus/functionanalyser.svg) 
+
 ![image of the output](https://cdn.discordapp.com/attachments/323093067626446852/591556240866541568/unknown.png)
 
 Lists the number of lines you have in your functions with a detailed breakdown on which commands you've used.
