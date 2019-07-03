@@ -1,0 +1,11 @@
+D:\#Daten\C#Projekte\FunctionAnalyser\bin\Debug\netcoreapp2.1\FunctionAnalyser.deps.json
+D:\#Daten\C#Projekte\FunctionAnalyser\bin\Debug\netcoreapp2.1\FunctionAnalyser.runtimeconfig.json
+D:\#Daten\C#Projekte\FunctionAnalyser\bin\Debug\netcoreapp2.1\FunctionAnalyser.runtimeconfig.dev.json
+D:\#Daten\C#Projekte\FunctionAnalyser\bin\Debug\netcoreapp2.1\FunctionAnalyser.dll
+D:\#Daten\C#Projekte\FunctionAnalyser\bin\Debug\netcoreapp2.1\FunctionAnalyser.pdb
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.csprojAssemblyReference.cache
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.csproj.CoreCompileInputs.cache
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.AssemblyInfoInputs.cache
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.AssemblyInfo.cs
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.dll
+D:\#Daten\C#Projekte\FunctionAnalyser\obj\Debug\netcoreapp2.1\FunctionAnalyser.pdb
